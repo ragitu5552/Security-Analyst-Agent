@@ -73,14 +73,3 @@ def generate_surveillance_data(num_frames: int = 20) -> Tuple[List[Dict], List[D
     
     return frames, telemetry
 
-# # Example Usage
-# if __name__ == "__main__":
-#     video_frames, telemetry_data = generate_surveillance_data(10)
-    
-#     print("Simulated Video Frames:")
-#     for frame in video_frames:
-#         print(f"{frame['timestamp']} - Frame {frame['frame_id']}: {frame['description']}")
-    
-#     print("\nCorresponding Telemetry Data:")
-#     for data in telemetry_data[:3]:  # Print first 3 telemetry entries
-#         print(f"{data['timestamp']} - Location: {data['location']}, Altitude: {data['altitude_m']:.1f}m")
