@@ -24,8 +24,7 @@ The system consists of:
 - **🔍 Query System:** Retrieves stored events.
 
 ## 📈 Design Flow
-## 📈 Design Flow
-![Design Flow](assets/design_flow.png)
+<img src="assets/flytbase_flow.png" alt="Flowchart of the Security Analyst Agent" align="center" width="500px">
 
 ## 💡 Design Decisions
 
