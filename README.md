@@ -110,5 +110,3 @@ python query.py
 
 ---
 
-🚀 **Ready to take drone security to the next level? Let’s go!** 🛸⚡
-
