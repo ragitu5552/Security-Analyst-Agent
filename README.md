@@ -1,7 +1,3 @@
----
-filename: drone_security_agent.md
-format: markdown
----
 
 # 🚀 Drone Security Analyst Agent
 
@@ -26,6 +22,10 @@ The system consists of:
 - **📝 Logging Mechanism:** Stores events in a database.
 - **🚨 Alert System:** Triggers alerts based on predefined rules and contextual analysis.
 - **🔍 Query System:** Retrieves stored events.
+
+## 📈 Design Flow
+## 📈 Design Flow
+![Design Flow](assets/design_flow.png)
 
 ## 💡 Design Decisions
 
